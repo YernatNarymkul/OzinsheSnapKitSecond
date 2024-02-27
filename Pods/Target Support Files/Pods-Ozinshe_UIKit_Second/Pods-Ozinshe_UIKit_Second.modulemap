@@ -1,0 +1,6 @@
+framework module Pods_Ozinshe_UIKit_Second {
+  umbrella header "Pods-Ozinshe_UIKit_Second-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+//MARK: SignInViewController
+"HELLO_LABEL" = "Сәлем";
+"ACCAUNT_LABEL" = "Аккаунтқа кіріңіз";
+"EMAIL_TEXTFIELD" = "Сіздің құпия сөзіңіз";
+"PASSWORD_LABEL" = "Құпия сөз";
+"PASSWORD_TEXTFIELD" = "Сіздің құпия сөзіңіз";
+"QUESTION_LABEL" = "Құпия сөзді ұмыттыңыз ба?";
+"ENTERANCE_BUTTON" = "Кіру";
+"NO_ACCAUNT_LABEL" = "Аккаунтыныз жоқ па?";
+"REGISTRATION_BUTTON" = "Тіркелу";
+"NEXT_LABEL" = "Немесе";
+"APPLE_REGISTRTION_BUTTON" = "Apple ID-мен тіркеліңіз";
+"GOOGLE_REGISTRATION_BUTTON" = "Google-мен тіркеліңіз";
+"CONNECTION_ERROR" = "Қосылу қатесі";
+//MARK: ProfileViewController
+"PROFILE" = "Менің профилім";
+"MY_PROFILE_LABEL" = "Менің профилім";
+"PERSONAL_DATA" = "Жеке деректер";
+"CHENGE_PASSWORD" = "Құпия сөзді өзгерту";
+"RULE" = "Өңдеу";
+"LANGUAGE" = "Тіл";
+"TERMS_AND_CONDITIONS" = "Ережелер мен шарттар";
+"ADS" = "Хабарландырулар";
+"DARK_MODE" = "Қараңғы режим";
+"YOUR_NAME" = "Сіздің атыңыз";
+"TELEPHONE" = "Телефон";
+"DATA_OF_BIRTH" = "Туылған күні";
+"PERSONAL_DATA" = "Жеке деректер";
+"PASSWORD" = "Құпия сөз";
+"CHANGE_THE_PASSWORD" = "Құпия сөзді өзгерту";
+"YOUR_PASSWORD" = "Сіздің құпия сөзіңіз";
+"REPEAT_PASSWORD_LABEL" = "Құпия сөзді қайталаңыз";
+"SAVING_CHANGES" = "Өзгерістерді сақтау";
+

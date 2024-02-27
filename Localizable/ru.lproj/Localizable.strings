@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+//MARK: SignInViewController
+"HELLO_LABEL" = "Привет";
+"ACCAUNT_LABEL" = "Войдите в свою учетную запись";
+"EMAIL_TEXTFIELD" = "Ваш пароль";
+"PASSWORD_LABEL" = "Пароль";
+"PASSWORD_TEXTFIELD" = "Ваш пароль";
+"QUESTION_LABEL" = "Забыли пароль?";
+"ENTERANCE_BUTTON" = "Вход";
+"NO_ACCAUNT_LABEL" = "Нет аккаунта?";
+"REGISTRATION_BUTTON" = "Регистрация";
+"NEXT_LABEL" = "Регистрация при помощи";
+"APPLE_REGISTRTION_BUTTON" = "Apple ID";
+"GOOGLE_REGISTRATION_BUTTON" = "Google ID";
+"CONNECTION_ERROR" = "Ошибка соединения";
+//MARK: ProfileViewController
+"PROFILE" = "Профиль";
+"MY_PROFILE_LABEL" = "Мой профиль";
+"PERSONAL_DATA" = "Персональные данные";
+"CHENGE_PASSWORD" = "Изменение пороля";
+"RULE" = "Править";
+"LANGUAGE" = "Язык";
+"TERMS_AND_CONDITIONS" = "Правила и условия";
+"ADS" = "Объявления";
+"DARK_MODE" = "Темный режим";
+"YOUR_NAME" = "Ваше имя";
+"TELEPHONE" = "Телефон";
+"DATA_OF_BIRTH" = "Дата рождения";
+"PERSONAL_DATA" = "Личные данные";
+"PASSWORD" = "Пароль";
+"CHANGE_THE_PASSWORD" = "Изменить пароль";
+"YOUR_PASSWORD" = "Ваш пароль";
+"REPEAT_PASSWORD_LABEL" = "Повторите пароль";
+"SAVING_CHANGES" = "Сохранение изменений";
+

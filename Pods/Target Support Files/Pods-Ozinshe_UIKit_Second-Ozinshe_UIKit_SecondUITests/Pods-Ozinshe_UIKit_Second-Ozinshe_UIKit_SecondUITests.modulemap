@@ -1,0 +1,6 @@
+framework module Pods_Ozinshe_UIKit_Second_Ozinshe_UIKit_SecondUITests {
+  umbrella header "Pods-Ozinshe_UIKit_Second-Ozinshe_UIKit_SecondUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+//MARK: SignInViewController
+"HELLO_LABEL" = "Hello";
+"ACCAUNT_LABEL" = "Log in to your account";
+"EMAIL_TEXTFIELD" = "Your password";
+"PASSWORD_LABEL" = "Password";
+"PASSWORD_TEXTFIELD" = "Your password";
+"QUESTION_LABEL" = "Forgot your password?";
+"ENTERANCE_BUTTON" = "Entrance";
+"NO_ACCAUNT_LABEL" = "No account?";
+"REGISTRATION_BUTTON" = "Registration";
+"NEXT_LABEL" = "Registration using";
+"APPLE_REGISTRTION_BUTTON" = "Apple ID";
+"GOOGLE_REGISTRATION_BUTTON" = "Google ID";
+"CONNECTION_ERROR" = "Connection error";
+//MARK: ProfileViewController
+"PROFILE" = "Profile";
+"MY_PROFILE_LABEL" = "My profile";
+"PERSONAL_DATA" = "Personal data";
+"CHENGE_PASSWORD" = "Change password";
+"RULE" = "Rule";
+"LANGUAGE" = "Language";
+"TERMS_AND_CONDITIONS" = "Terms and conditions";
+"ADS" = "Ads";
+"DARK_MODE" = "Dark mode";
+"YOUR_NAME" = "Your name";
+"TELEPHONE" = "Telephone";
+"DATA_OF_BIRTH" = "Data of birth";
+"PERSONAL_DATA" = "Personal data";
+"PASSWORD" = "Password";
+"CHANGE_THE_PASSWORD" = "Change the passowrd";
+"YOUR_PASSWORD" = "Your password";
+"REPEAT_PASSWORD_LABEL" = "Repeat password";
+"SAVING_CHANGES" = "Saving changes";
+
+
